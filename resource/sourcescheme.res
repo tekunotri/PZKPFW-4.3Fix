@@ -9,9 +9,8 @@ Scheme
 	{
 		// HUD COLORS
 		//---------------------------------------------
-		"themecolor"				"255 200 0 255"
-		"Yellow"					"255 200 0 255"
-		"White"						"255 180 0 255"
+		"Yellow"					"255 174 201 255"
+		"White"						"255 124 150 255"
 		"DullWhite"					"132 132 132 255"
 		"DarkGrey"					"0 0 0 200"
 		"Black"						"0 0 0 180"
@@ -23,21 +22,21 @@ Scheme
 		//---------------------------------------------
 	    "TFDarkBrown"               "60 56 53 255"
 	    "TFDarkBrownTransparent"    "60 56 53 190"
-	    "TFTanBright"               "255 200 0 255"
-	    "TFTanLight"                "255 200 0 255"
+	    "TFTanBright"               "255 174 201 255"
+	    "TFTanLight"                "255 174 201 255"
 	    "TFTanMedium"               "131 121 104 150"
 
 	    "TFTanLightBright"          "229 223 211 90"
 	    "TFTanLightDark"            "96 90 78 90"
 
-	    "TFOrangeBright"            "255 200 0 255"
+	    "TFOrangeBright"            "255 174 201 255"
 
 	    "TFTextBright"              "251 236 203 150"
 	    "TFTextLight"               "201 188 162 255"
-	    "TFTextMedium"              "255 200 0 255"
+	    "TFTextMedium"              "255 174 201 255"
 	    "TFTextMediumDark"          "104 96 83 255"
 	    "TFTextBlack"               "42 39 37 255"
-	    "TFTextDull"                "255 200 0 255"
+	    "TFTextDull"                "255 174 201 255"
 
 	    "TFMediumBrown"				"69 64 58 255"
 
@@ -49,8 +48,8 @@ Scheme
 		"ControlBG"					"76 88 68 255"		// background color of controls
 		"ControlDarkBG"				"90 106 80 255"		// darker background color; used for background of scrollbars
 		"WindowBG"					"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
-		"SelectionBG"				"255 80 0 255"		// background color of any selected text or menu item
-		"SelectionBG2"				"255 200 0 255"		// selection background in window w/o focus
+		"SelectionBG"				"255 174 201 255"		// background color of any selected text or menu item
+		"SelectionBG2"				"255 174 201 255"		// selection background in window w/o focus
 		"ListBG"					"39 36 34 255"		// background of server browser, buddy list, etc.
 	}
 
@@ -98,7 +97,7 @@ Scheme
 		FrameGrip.Color2				"White"
 		FrameTitleButton.FgColor		"White"
 		FrameTitleBar.Font				"UiBold"
-		FrameTitleBar.TextColor			"themecolor"
+		FrameTitleBar.TextColor			"255 174 201 255"
 		FrameTitleBar.DisabledTextColor	"DullWhite"
 
 		Label.TextDullColor				"DullWhite"

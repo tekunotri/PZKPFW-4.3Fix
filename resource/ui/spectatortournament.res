@@ -197,7 +197,7 @@
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"east"
-				"fgcolor"		"255 200 0 180"
+				"fgcolor"		"255 174 201 180"
 
 				
 			}

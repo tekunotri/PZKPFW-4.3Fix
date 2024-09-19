@@ -150,7 +150,7 @@
 			"sound_released"	"UI/buttonclickrelease.wav"
 
 			"image_drawcolor"	"245 245 245 80"
-			"image_armedcolor"	"255 200 0 255"
+			"image_armedcolor"	"255 174 201 255"
 
 			"SubImage"
 			{
@@ -466,7 +466,7 @@
 				"depressedFgColor_override" "46 43 42 255"
 			
 				"image_drawcolor"	"235 225 205 255"
-				"image_armedcolor"	"255 200 0 255"
+				"image_armedcolor"	"255 174 201 255"
 				"SubImage"
 				{
 					"ControlName"	"ImagePanel"
@@ -850,7 +850,7 @@
 			"pin_corner_to_sibling" "3"
 			"pin_to_sibling_corner" "2"
 			
-			"image_drawcolor"	"255 200 0 255"
+			"image_drawcolor"	"255 174 201 255"
 			"image_armedcolor"	"235 225 205 255"
 			
 			"SubImage"

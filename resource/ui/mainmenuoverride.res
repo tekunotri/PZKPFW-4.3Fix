@@ -804,7 +804,7 @@
 			"pinCorner"								"0"
 			"visible"								"1"
 			"enabled"								"1"
-			"fgcolor"								"255 200 0 255"
+			"fgcolor"								"255 174 201 255"
 			"wrap"									"1"
 		}
 		
@@ -1692,7 +1692,7 @@
 
 			"paintbackground"	"0"
 
-			"image_drawcolor"	"255 200 0 255"
+			"image_drawcolor"	"255 174 201 255"
 			"image_armedcolor"	"235 225 205 255"
 
 			"SubImage"
@@ -1750,7 +1750,7 @@
 
 			"paintbackground"	"0"
 
-			"image_drawcolor"	"255 200 0 255"
+			"image_drawcolor"	"255 174 201 255"
 			"image_armedcolor"	"235 225 205 255"
 
 			"SubImage"

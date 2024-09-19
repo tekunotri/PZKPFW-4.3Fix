@@ -9,7 +9,7 @@ Scheme
 
 		// base colors
 		
-		"themecolor"		"255 200 0 255"
+		"themecolor"		"255 174 201 255"
 		
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"

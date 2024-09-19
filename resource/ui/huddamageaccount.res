@@ -32,7 +32,7 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"fgcolor"		"themecolor"
+		"fgcolor"		"tanlight"
 		"font"			"SQUARES19" 
 		"font_minmode"			"SQUARES15"
 	}

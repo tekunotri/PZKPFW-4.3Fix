@@ -224,7 +224,7 @@
 			"visible"								"0"
 			"enabled"								"1"
 			"tabPosition"							"0"
-			"bgcolor_override"						"255 200 0 200"
+			"bgcolor_override"						"255 174 201 200"
 			"PaintBackgroundType"					"0"
 		}
 		
@@ -242,7 +242,7 @@
 			"visible"								"0"
 			"enabled"								"1"
 			"tabPosition"							"0"
-			"bgcolor_override"						"255 200 0 200"
+			"bgcolor_override"						"255 174 201 200"
 			"PaintBackgroundType"					"0"
 		}
 		
