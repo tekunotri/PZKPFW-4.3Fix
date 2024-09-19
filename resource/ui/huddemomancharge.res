@@ -1,0 +1,41 @@
+"Resource/UI/HudDemomanCharge.res"
+{
+	"ChargeMeter" //For Stickies
+	{
+		"ControlName"	"ContinuousProgressBar"
+		"fieldName"		"ChargeMeter"
+		"font"			"Default"
+		"xpos"			"10"
+		"ypos"			"16"
+		"zpos"			"2"
+		"wide"			"85"
+		"tall"			"6"
+		"xpos_minmode"			"10"
+		"ypos_minmode"			"18"
+		"wide_minmode"			"70"
+		"tall_minmode"			"5"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"textAlignment"	"Left"
+		"dulltext"		"0"
+		"brighttext"	"0"
+        "fgcolor_override"       "HudWhite"
+	}
+	"ItemEffectColor100"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"	"ItemEffectColor100"
+		"xpos"		"10"
+		"xpos_minmode"		"10"
+		"ypos"		"22"
+		"zpos"		"3"
+		"wide"		"85"
+		"wide_minmode"		"70"
+		"tall"		"2"
+		"visible"	"1"
+		"enabled"	"1"
+		"fillcolor"	"0 0 0 200"
+	}
+}
