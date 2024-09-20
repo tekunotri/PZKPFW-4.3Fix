@@ -38,12 +38,11 @@
 		"command"		"OpenReportPlayerDialog"
 		"OnlyInGame"	"1"
 		"subimage"		"glyph_alert"
-		"tooltip"		"#MMenu_ReportPlayer"
 	}
 	"Friends"
 	{
-		"label"										"FRIENDS"
-		"command"									"motd_show"
-		"tooltip"									"Friends List"
+		"label"			"FRIENDS"
+		"command"		"motd_show"
+		"tooltip"		"Friends List"
 	}
 }
