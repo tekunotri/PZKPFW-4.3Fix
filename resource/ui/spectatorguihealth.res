@@ -21,7 +21,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"9999" //"-36"
+		"xpos"			"9999" // '-36'
 		"ypos"			"12"
 		"zpos"			"4"
 		"wide"			"96"
@@ -67,11 +67,11 @@
 	"PlayerStatusHealthValuespec"
 	{
 		"ControlName"	"Label"
-		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"19"
+		"fieldName"		"PlayerStatusHealthValuespec"
+		"xpos"			"17"
 		"ypos"			"6"
 		"zpos"			"5"
-		"wide"			"30"
+		"wide"			"35"
 		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
@@ -82,11 +82,11 @@
 	"PlayerStatusHealthValuespecShadow"
 	{
 		"ControlName"	"Label"
-		"fieldName"		"PlayerStatusHealthValueShadow"
-		"xpos"			"20"
-		"ypos"			"7"
+		"fieldName"		"PlayerStatusHealthValuespecShadow"
+		"xpos"			"-1"
+		"ypos"			"-1"
 		"zpos"			"5"
-		"wide"			"30"
+		"wide"			"35"
 		"tall"			"21"
 		"visible"		"1"
 		"enabled"		"1"
@@ -94,6 +94,7 @@
 		"font"			"SQUARES15"
 		"fgcolor_override" "SuperBlack"
 		"labelText"		"%Health%"
+		"pin_to_sibling"	"PlayerStatusHealthValueSPEC"
 	}
 	"PlayerStatusPlayerLevel"
 	{
