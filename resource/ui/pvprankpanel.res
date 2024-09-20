@@ -264,7 +264,7 @@
 
 			"colors"
 			{
-				"1"		"CreditsGreen"
+				"1"		"themecolor"
 				"2"		"245 245 245 180"
 			}
 		}

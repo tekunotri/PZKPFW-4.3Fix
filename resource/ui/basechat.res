@@ -8,8 +8,8 @@
 		"enabled" 		"1"
 		"xpos"			"10"	[$WIN32]
 		"xpos"			"42"	[$X360]
-		"ypos"			"275"
-		"ypos_hidef"		"245"
+		"ypos"			"240"
+		"ypos_hidef"		"240"
 		"wide"	 		"280"
 		"tall"	 		"120"
 		"PaintBackgroundType"	"2"
