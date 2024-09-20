@@ -205,6 +205,7 @@
 			"ControlName"				"editablepanel"
 			"fieldName"					"TOP"
 			"xpos"						"cs-0.5" //204 (for 16:10)
+			"xpos"						"cs-0.5" //204 (for 16:10)
 			"ypos"						"446"
 			"ypos_minmode"						"374"
 			"zpos"						"2"
@@ -1055,3 +1056,4 @@
 		}
 	}
 }
+
