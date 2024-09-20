@@ -3,6 +3,8 @@
 # PZKPFW
 ### by amp-t
 
+**[PINK VERSION](https://github.com/tekunotri/PZKPFW-4.3Fix/tree/pink)**
+
 
 **[SCREENSHOTS](https://imgur.com/a/yG00gR3)** -
 **[INSTALLATION](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/installation/windows_install.md)** -
