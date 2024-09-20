@@ -353,7 +353,7 @@
 						"proportionaltoparent"	"1"
 						"progress"		"1"
 
-						"fgcolor_override"	"20 20 20 180"
+						"fgcolor_override"	"20 20 20 0"
 						"bgcolor_override"	"245 245 245 0"
 					}
 

@@ -278,7 +278,7 @@
 	{
 		"ControlName"						"CExImageButton"
 		"fieldName"							"customsoldier"
-		"xpos"								"c-223" // 210
+		"xpos"								"c-203" // 210
 		"ypos"								"440"
 		"zpos"								"3000"
 		"wide"								"45"
@@ -309,7 +309,7 @@
 	{
 		"ControlName"						"CExImageButton"
 		"fieldName"							"custompyro"
-		"xpos"								"c-148" // 275
+		"xpos"								"c-128" // 275
 		"ypos"								"440"
 		"zpos"								"3000"
 		"wide"								"35"
@@ -341,7 +341,7 @@
 	{
 		"ControlName"						"CExImageButton"
 		"fieldName"							"customdemo"
-		"xpos"								"c-93" // 330
+		"xpos"								"c-73" // 330
 		"ypos"								"440"
 		"zpos"								"3000"
 		"wide"								"60"
@@ -371,7 +371,7 @@
 	{
 		"ControlName"						"CExImageButton"
 		"fieldName"							"customheavy"
-		"xpos"								"c-16" // 407
+		"xpos"								"c+4" // 407
 		"ypos"								"440"
 		"zpos"								"3000"
 		"wide"								"35"
@@ -402,7 +402,7 @@
 	{
 		"ControlName"						"CExImageButton"
 		"fieldName"							"customengi"
-		"xpos"								"c+40" // 463
+		"xpos"								"c+60" // 463
 		"ypos"								"440"
 		"zpos"								"3000"
 		"wide"								"60"
@@ -433,7 +433,7 @@
 	{
 		"ControlName"						"CExImageButton"
 		"fieldName"							"custommedic"
-		"xpos"								"c+113" // 536
+		"xpos"								"c+133" // 536
 		"ypos"								"440"
 		"zpos"								"3000"
 		"wide"								"40"
@@ -463,7 +463,7 @@
 	{
 		"ControlName"						"CExImageButton"
 		"fieldName"							"customSniper"
-		"xpos"								"c+177" // 600
+		"xpos"								"c+197" // 600
 		"ypos"								"440"
 		"zpos"								"3000"
 		"wide"								"40"
@@ -493,7 +493,7 @@
 	{
 		"ControlName"						"CExImageButton"
 		"fieldName"							"customSpy"
-		"xpos"								"c+240" // 663 // cut off in 4:3 completely
+		"xpos"								"c+260" // 663 // cut off in 4:3 completely
 	 	"ypos"								"440"
 	 	"zpos"								"3000"
 	 	"wide"								"30"
@@ -760,7 +760,7 @@
 	{
 		"ControlName"						"CExImageButton"
 		"fieldName"							"ShowBackpackButton"
-		"xpos"								"c-260"
+		"xpos"								"cs-0.5-225"
 		"ypos"								"455"
 		"zpos"								"3000"
 		"wide"								"90"
@@ -811,7 +811,7 @@
 	{
 		"ControlName"						"ImageButton"
 		"fieldName"							"ShowCraftingButton"
-		"xpos"								"c-160"
+		"xpos"								"cs-0.5-125"
 		"ypos"								"455"
 		"zpos"								"3000"
 		"wide"								"90"
@@ -846,7 +846,7 @@
 		"font"								"SQUARES8s"
 		"labelText"							"CRAFTING"
 		"textAlignment"						"north"
-		"xpos"								"c-125"
+		"xpos"								"cs-0.5-125"
 		"ypos"								"300"
 		"zpos"								"7"
 		"wide"								"120"
@@ -861,7 +861,7 @@
 	{
 		"ControlName"						"ImageButton"
 		"fieldName"							"ShowArmoryButton"
-		"xpos"								"c-60"
+		"xpos"								"cs-0.5"
 	 	"ypos"								"455"
 	 	"zpos"								"3000"
 	 	"wide"								"90"
@@ -910,7 +910,7 @@
 	{
 		"ControlName"						"ImageButton"
 		"fieldName"							"ShowTradeButton"
-		"xpos"								"c+40"
+		"xpos"								"cs-0.5+125"
 	 	"ypos"								"455"
 	 	"zpos"								"3000"
 	 	"wide"								"60"
@@ -960,7 +960,7 @@
 	{
 		"ControlName"						"ImageButton"
 		"fieldName"							"ShowPaintkitsButton"
-		"xpos"								"c+140"
+		"xpos"								"cs-0.5+250"
 	 	"ypos"								"455"
 	 	"zpos"								"3000"
 	 	"wide"								"60"
