@@ -36,7 +36,7 @@
 		"xpos"		"377"
 		"ypos"		"cs-0.5"
 
-		"fgcolor"	"0 0 0 255"
+		"fgcolor"	"0 0 0 0"
 	}
 
 	"BluePlayerList"
@@ -160,7 +160,7 @@
 	{
 		"ControlName"				"editablepanel"
 		"fieldName"					"FRAMEBLUE"
-		"xpos"						"247" //204 (for 16:10)
+		"xpos"						"cs-0.5-90" //204 (for 16:10)
 		"ypos"						"289"
 		"zpos"						"2"
 		"wide"						"180"
@@ -182,7 +182,7 @@
 	{
 		"ControlName"				"editablepanel"
 		"fieldName"					"FRAMERED"
-		"xpos"						"427" //204 (for 16:10)
+		"xpos"						"cs-0.5+90" //204 (for 16:10)
 		"ypos"						"289"
 		"zpos"						"2"
 		"wide"						"180"
@@ -204,7 +204,7 @@
 		{
 			"ControlName"				"editablepanel"
 			"fieldName"					"TOP"
-			"xpos"						"247" //204 (for 16:10)
+			"xpos"						"cs-0.5" //204 (for 16:10)
 			"ypos"						"446"
 			"ypos_minmode"						"374"
 			"zpos"						"2"
@@ -227,7 +227,7 @@
 		{
 			"ControlName"				"editablepanel"
 			"fieldName"					"BOTTOM"
-			"xpos"						"247" //204 (for 16:10)
+			"xpos"						"cs-0.5" //204 (for 16:10)
 			"ypos"						"460"
 			"ypos_minmode"						"387"
 			"zpos"						"2"
@@ -250,7 +250,7 @@
 		{
 			"ControlName"				"editablepanel"
 			"fieldName"					"LEFT"
-			"xpos"						"247" //204 (for 16:10)
+			"xpos"						"cs-0.5-180" //204 (for 16:10)
 			"ypos"						"446"
 			"ypos_minmode"						"374"
 			"zpos"						"3"
@@ -274,7 +274,7 @@
 		{
 			"ControlName"				"editablepanel"
 			"fieldName"					"RIGHT"
-			"xpos"						"607" //204 (for 16:10)
+			"xpos"						"cs-0.5+180" //204 (for 16:10)
 			"ypos"						"446"
 			"ypos_minmode"						"374"
 			"zpos"						"3"
@@ -298,8 +298,8 @@
 	{
 		"ControlName"				"editablepanel"
 		"fieldName"					"MainBG"
-		"xpos"						"247" //204 (for 16:10)
-		"xpos_minmode"				"247"
+		"xpos"						"cs-0.5" //204 (for 16:10)
+		"xpos_minmode"				"cs-0.5"
 		"ypos"						"277"
 		"ypos_minmode"				"277"
 		"zpos"						"0"
@@ -505,7 +505,7 @@
 		"labelText"									"%server%"
 		"textAlignment"								"center"
 		"alpha"										"255"
-		"xpos"										"250"
+		"xpos"										"cs-0.5-140"
 		"ypos"										"448"
 		"ypos_minmode"				"376"
 		"zpos"										"10"
@@ -529,9 +529,9 @@
 		"labelText"									"%mapname%"
 		"textAlignment"								"center"
 		"alpha"										"255"
-		"xpos"										"337"
+		"xpos"										"cs-0.5+100"
 		"ypos"										"448"
-		"ypos_minmode"				"376"
+		"ypos_minmode"								"376"
 		"zpos"										"10"
 		"wide"										"400"
 		"tall"										"10"
@@ -565,7 +565,7 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"LocalPlayerStatsPanel"
-		"xpos"										"4"
+		"xpos"										"cs-0.5-105"
 		"ypos"										"20"
 		"zpos"										"40"
 		"wide"										"f0"
