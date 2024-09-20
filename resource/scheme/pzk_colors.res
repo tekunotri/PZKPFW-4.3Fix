@@ -15,7 +15,7 @@ Scheme
 		"OrangeDim"			"178 82 22 120"
 		"LightOrange"		"188 112 0 128"
 		"GoalOrange"		"255 133 0"
-		"TFOrange"			"255 200 0 255"
+		"TFOrange"			"255 174 201 255"
 		
 		"PanzerBlue"		"50 150 201 255"
 		"PanzerRed"			"235 58 58 255"
