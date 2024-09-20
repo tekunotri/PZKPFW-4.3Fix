@@ -968,7 +968,7 @@
 		"ControlName"								"EditablePanel"
 		"fieldName"									"MOTD_Panel"
 		"xpos"										"0"
-		"ypos"										"54"
+		"ypos"										"56"
 		"zpos"										"11"
 		"wide"			"160"
 		"tall"			"170"

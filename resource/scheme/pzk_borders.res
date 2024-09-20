@@ -1056,7 +1056,8 @@
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
 
-			"image"					"backpack_rect"
+			"color"					"0 0 0 165"
+			"image"					"replay/thumbnails/white"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
 			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
@@ -1066,8 +1067,8 @@
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-
-			"image"					"backpack_rect_mouseover"
+			"color"					"255 255 255 16"
+			"image"					"replay/thumbnails/white"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
 			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
@@ -1077,8 +1078,8 @@
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-
-			"image"					"backpack_rect_selected"
+			"color"					"0 0 0 165"
+			"image"					"replay/thumbnails/white"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
 			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
