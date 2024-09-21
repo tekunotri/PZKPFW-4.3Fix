@@ -9,6 +9,7 @@
 		"xpos"			"10"	[$WIN32]
 		"xpos"			"42"	[$X360]
 		"ypos"			"210"
+		"ypos_minmode"	"160"
 		"ypos_hidef"		"210"
 		"wide"	 		"280"
 		"tall"	 		"120"

@@ -10,7 +10,7 @@
 // 1: 0, 2: 49, 3: 99, 4: 149, 5: 199, 6: 249, 7: 289
 // ypos used for slots 1: 20, 2: 41
 
-"Resource/UI/MainMenuOverride.res"
+"Resource/ui/MainMenuOverride.res"
 {
 	MainMenuOverride
 	{
@@ -60,8 +60,8 @@
 				"dulltext"					"0"
 				"brighttext"				"0"
 				"default"					"1"
-				"sound_depressed"			"UI/buttonclick.wav"
-				"sound_released"			"UI/buttonclickrelease.wav"
+				"sound_depressed"			"ui/buttonclick.wav"
+				"sound_released"			"ui/buttonclickrelease.wav"
 
 				"border_default"			"MainMenuButtonDefault"
 				"border_armed"				"MainMenuButtonArmed"
@@ -484,8 +484,8 @@
 			"textAlignment"							"west"
 			"command"								"noti_show"
 			"actionsignallevel"						"2"
-			"sound_depressed"						"UI/buttonclick.wav"
-			"sound_released"						"UI/buttonclickrelease.wav"
+			"sound_depressed"						"ui/buttonclick.wav"
+			"sound_released"						"ui/buttonclickrelease.wav"
 
 			"paintbackground"						"1"
 			"bgcolor_override"						"0 0 0 180"
@@ -544,8 +544,8 @@
 			"actionsignallevel" 		"2"
 			"proportionaltoparent"		"1"
 
-			"sound_depressed"			"UI/buttonclick.wav"
-			"sound_released"			"UI/buttonclickrelease.wav"
+			"sound_depressed"			"ui/buttonclick.wav"
+			"sound_released"			"ui/buttonclickrelease.wav"
 			"paintbackground"			"0"
 			"paintborder"				"0"
 			"image_drawcolor"			"245 245 245 60"
@@ -615,8 +615,8 @@
 			"actionsignallevel" 		"2"
 			"proportionaltoparent"		"1"
 
-			"sound_depressed"			"UI/buttonclick.wav"
-			"sound_released"			"UI/buttonclickrelease.wav"
+			"sound_depressed"			"ui/buttonclick.wav"
+			"sound_released"			"ui/buttonclickrelease.wav"
 			"paintbackground"			"0"
 			"paintborder"				"0"
 			"image_drawcolor"			"245 245 245 60"
@@ -688,8 +688,8 @@
 			"Command"			"motd_show"
 			"navActivate"		"<QuickplayButton"		// after selecting this, nav to this sibling
 
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclickrelease.wav"
+			"sound_depressed"	"ui/buttonclick.wav"
+			"sound_released"	"ui/buttonclickrelease.wav"
 			"paintbackground"	"0"
 			"image_drawcolor"	"245 245 245 60"
 			"image_armedcolor"	"255 255 255 255"
@@ -762,8 +762,8 @@
 			"Command"								"noti_hide"
 			"navActivate"							"<QuickplayButton"
 
-			"sound_depressed"						"UI/buttonclick.wav"
-			"sound_released"						"UI/buttonclickrelease.wav"
+			"sound_depressed"						"ui/buttonclick.wav"
+			"sound_released"						"ui/buttonclickrelease.wav"
 
 			"paintbackground"						"0"
 			
@@ -883,8 +883,8 @@
 			"dulltext"					"0"
 			"brighttext"				"0"
 			"default"					"1"
-			"sound_depressed"			"UI/buttonclick.wav"
-			"sound_released"			"UI/buttonclickrelease.wav"
+			"sound_depressed"			"ui/buttonclick.wav"
+			"sound_released"			"ui/buttonclickrelease.wav"
 
 			"border_default"			"MainMenuButtonDefault"
 			"border_armed"				"MainMenuButtonArmed"
@@ -949,8 +949,8 @@
 				"font"									"SQUARES8s"
 				"AllCaps"								"0"
 				"textAlignment"							"center"
-				"sound_depressed"						"UI/buttonclick.wav"
-				"sound_released"						"UI/buttonclickrelease.wav"
+				"sound_depressed"						"ui/buttonclick.wav"
+				"sound_released"						"ui/buttonclickrelease.wav"
 
 				"paintbackground"						"0"
 				"paintborder"							"0"
@@ -992,7 +992,7 @@
 			"AllCaps"								"1"
 			"Command"								"motd_hide"
 			"actionsignallevel"						"2"
-			"sound_depressed"						"UI/buttonclick.wav"
+			"sound_depressed"						"ui/buttonclick.wav"
 
 			"paintbackground"						"0"
 			"RoundedCorners"						"0"
@@ -1253,8 +1253,8 @@
 //					"dulltext"					"0"
 //					"brighttext"				"0"
 //					"default"					"1"
-//					"sound_depressed"			"UI/buttonclick.wav"
-//					"sound_released"			"UI/buttonclickrelease.wav"
+//					"sound_depressed"			"ui/buttonclick.wav"
+//					"sound_released"			"ui/buttonclickrelease.wav"
 //					"labeltext"					"#MMenu_ViewUpdateDetails"
 //					"proportionaltoparent"		"1"
 //					"command"					"view_update_page"
@@ -1323,8 +1323,8 @@
 //					"dulltext"					"0"
 //					"brighttext"				"0"
 //					"default"					"1"
-//					"sound_depressed"			"UI/buttonclick.wav"
-//					"sound_released"			"UI/buttonclickrelease.wav"
+//					"sound_depressed"			"ui/buttonclick.wav"
+//					"sound_released"			"ui/buttonclickrelease.wav"
 //					"labeltext"					"#MMenu_ViewWar"
 //					"proportionaltoparent"		"1"
 //					"command"					"view_war"
@@ -1458,8 +1458,8 @@
 				"dulltext"					"0"
 				"brighttext"				"0"
 				"default"					"1"
-				"sound_depressed"			"UI/buttonclick.wav"
-				"sound_released"			"UI/buttonclickrelease.wav"
+				"sound_depressed"			"ui/buttonclick.wav"
+				"sound_released"			"ui/buttonclickrelease.wav"
 				"labeltext"					"#MMenu_SafeMode_SaveSettings"
 				"proportionaltoparent"		"1"
 				"command"					"safemode_save_settings"
@@ -1494,8 +1494,8 @@
 				"dulltext"					"0"
 				"brighttext"				"0"
 				"default"					"1"
-				"sound_depressed"			"UI/buttonclick.wav"
-				"sound_released"			"UI/buttonclickrelease.wav"
+				"sound_depressed"			"ui/buttonclick.wav"
+				"sound_released"			"ui/buttonclickrelease.wav"
 				"labeltext"					"#MMenu_SafeMode_LeaveSafeMode"
 				"proportionaltoparent"		"1"
 				"command"					"safemode_leave"
@@ -1572,8 +1572,8 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"default"					"1"
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 		"command"					"showpromocodes"
 
 		"border_default"			"MainMenuButtonDefault"
@@ -1622,9 +1622,9 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclick.wav"
-			"sound_armed"		"UI/buttonclick.wav"
+			"sound_depressed"	"ui/buttonclick.wav"
+			"sound_released"	"ui/buttonclickrelease.wav"
+			"sound_armed"		"vo/null.mp3"
 
 			"paintbackground"	"0"
 
@@ -1679,9 +1679,9 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclick.wav"
-			"sound_armed"		"UI/buttonclick.wav"
+			"sound_depressed"	"ui/buttonclick.wav"
+			"sound_released"	"ui/buttonclickrelease.wav"
+			"sound_armed"		"vo/null.mp3"
 
 			"paintbackground"	"0"
 
@@ -1737,9 +1737,9 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
-			"sound_depressed"	"UI/buttonclick.wav"
-			"sound_released"	"UI/buttonclick.wav"
-			"sound_armed"		"UI/buttonclick.wav"
+			"sound_depressed"	"ui/buttonclick.wav"
+			"sound_released"	"ui/buttonclickrelease.wav"
+			"sound_armed"		"vo/null.mp3"
 
 			"paintbackground"	"0"
 
@@ -1800,8 +1800,8 @@
 			"dulltext"					"0"
 			"brighttext"				"0"
 			"default"					"1"
-			"sound_depressed"			"UI/buttonclick.wav"
-			"sound_released"			"UI/buttonclickrelease.wav"
+			"sound_depressed"			"ui/buttonclick.wav"
+			"sound_released"			"ui/buttonclickrelease.wav"
 
 
 			"paintbackground"			"1"
@@ -1931,16 +1931,16 @@
 		"default"					"1"
 		"command"					"engine open_charinfo"
 		"labeltext"					"#MMenu_CharacterSetup"
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 		"proportionaltoparent"		"1"
 		"fgcolor_override"			"255 255 255 255"
 
 		"armedfgcolor_override"		"themecolor"
 		"armedbgcolor_override"		"themecolor"
 
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 
 		"paintbackground"			"0"
 
@@ -1992,8 +1992,8 @@
 		"armedfgcolor_override"		"themecolor"
 		"armedbgcolor_override"		"themecolor"
 
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 
 		"paintbackground"			"0"
 
@@ -2025,16 +2025,16 @@
 		"default"					"1"
 		"command"					"engine map tyler_rocket_shooting_v3_regen"
 		"labeltext"					"Training"
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 		"proportionaltoparent"		"1"
 		"fgcolor_override"			"255 255 255 255"
 
 		"armedfgcolor_override"		"themecolor"
 		"armedbgcolor_override"		"themecolor"
 
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 
 		"paintbackground"			"0"
 
@@ -2066,16 +2066,16 @@
 		"default"					"1"
 		"command"					"engine demoui"
 		"labeltext"					"DEMOUI"
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 		"proportionaltoparent"		"1"
 		"fgcolor_override"			"255 255 255 255"
 
 		"armedfgcolor_override"		"themecolor"
 		"armedbgcolor_override"		"themecolor"
 
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 
 		"paintbackground"			"0"
 
@@ -2114,8 +2114,8 @@
 		"armedfgcolor_override"		"themecolor"
 		"armedbgcolor_override"		"themecolor"
 
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 
 		"paintbackground"			"0"
 
@@ -2153,8 +2153,8 @@
 		"armedfgcolor_override"		"themecolor"
 		"armedbgcolor_override"		"themecolor"
 
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 
 		"paintbackground"			"0"
 
@@ -2193,8 +2193,8 @@
 		"armedfgcolor_override"		"themecolor"
 		"armedbgcolor_override"		"themecolor"
 
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 
 		"paintbackground"			"0"
 
@@ -2232,8 +2232,8 @@
 		"armedfgcolor_override"		"themecolor"
 		"armedbgcolor_override"		"themecolor"
 
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 
 		"paintbackground"			"0"
 
@@ -2276,8 +2276,8 @@
 		"armedfgcolor_override"		"themecolor"
 		"armedbgcolor_override"		"themecolor"
 
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 
 		"paintbackground"			"0"
 
@@ -2323,8 +2323,8 @@
 		"armedfgcolor_override"		"themecolor"
 		"armedbgcolor_override"		"themecolor"
 
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 		"border_default"			"noborder"
 
 		"image_drawcolor"			"245 245 245 60"
@@ -2374,8 +2374,8 @@
 		"navLeft"				"QuitButton"
 		"navRight"				"AchievementsButton"
 
-		"sound_depressed"		"UI/buttonclick.wav"
-		"sound_released"		"UI/buttonclickrelease.wav"
+		"sound_depressed"		"ui/buttonclick.wav"
+		"sound_released"		"ui/buttonclickrelease.wav"
 		"PaintBackgroundType"	"0"
 		"border_default"		"MainMenuSubButtonBorder"
 
@@ -2423,8 +2423,8 @@
 		"navLeft"			"NewUserForumsButton"
 		"navRight"			"CommentaryButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"ui/buttonclick.wav"
+		"sound_released"	"ui/buttonclickrelease.wav"
 		"border_default"	"MainMenuSubButtonBorder"
 
 		"image_drawcolor"	"245 245 245 60"
@@ -2471,8 +2471,8 @@
 		"navLeft"			"AchievementsButton"
 		"navRight"			"CoachPlayersButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"ui/buttonclick.wav"
+		"sound_released"	"ui/buttonclickrelease.wav"
 		"border_default"	"MainMenuSubButtonBorder"
 
 		"image_drawcolor"	"245 245 245 60"
@@ -2519,8 +2519,8 @@
 		"navLeft"			"CommentaryButton"
 		"navRight"			"ReportBugButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"ui/buttonclick.wav"
+		"sound_released"	"ui/buttonclickrelease.wav"
 		"border_default"	"MainMenuSubButtonBorder"
 
 		"image_drawcolor"	"245 245 245 60"
@@ -2567,8 +2567,8 @@
 		"navLeft"			"AchievementsButton"
 		"navRight"			"CoachPlayersButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"ui/buttonclick.wav"
+		"sound_released"	"ui/buttonclickrelease.wav"
 		"border_default"	"MainMenuSubButtonBorder"
 
 		"image_drawcolor"	"245 245 245 60"
@@ -2615,8 +2615,8 @@
 		"navLeft"			"AchievementsButton"
 		"navRight"			"CoachPlayersButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"ui/buttonclick.wav"
+		"sound_released"	"ui/buttonclickrelease.wav"
 		"border_default"	"MainMenuSubButtonBorder"
 
 		"image_drawcolor"	"245 245 245 60"
@@ -2663,8 +2663,8 @@
 		"navLeft"			"CoachPlayersButton"
 		"navRight"			"SettingsButton"
 
-		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
+		"sound_depressed"	"ui/buttonclick.wav"
+		"sound_released"	"ui/buttonclickrelease.wav"
 
 		"image_drawcolor"	"245 245 245 60"
 
@@ -2708,8 +2708,8 @@
 		"brighttext"				"0"
 		"default"					"1"
 		"Command"					"exitreplayeditor"
-		"sound_depressed"			"UI/buttonclick.wav"
-		"sound_released"			"UI/buttonclickrelease.wav"
+		"sound_depressed"			"ui/buttonclick.wav"
+		"sound_released"			"ui/buttonclickrelease.wav"
 
 		"image_drawcolor"			"245 245 245 60"
 
