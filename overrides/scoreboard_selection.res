@@ -4,3 +4,4 @@
 
 #base "../resource/ui/overrides/scoreboard_4x3.res"
 //#base "../resource/ui/overrides/scoreboard_16x9.res"
+//#base "../resource/ui/overrides/scoreboard_16x10.res"
